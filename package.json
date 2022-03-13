@@ -1,0 +1,21 @@
+{
+  "name": "2th_next_movie_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development next -p 3000",
+    "build": "next build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.19.1",
+    "axios": "^0.26.1",
+    "babel-plugin-styled-components": "^2.0.6",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "styled-components": "^5.3.3"
+  }
+}
